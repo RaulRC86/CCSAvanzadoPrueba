@@ -22,6 +22,7 @@
     .busqueda{background-color: rgb(180, 180, 180); padding: 10px;}
     .main-container{text-align: center;}
     .card {border: solid rgb(214, 212, 212) 1px; margin: 5px;}
+    .card img{height: 150px; width: auto;}
     @media(min-width: 576px) {
         .grid-container{height: 100vh; display: grid;
             grid-template-areas: "a a a a"
